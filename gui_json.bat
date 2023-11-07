@@ -1,0 +1,1 @@
+python gui_json.py --file_path "C:/image_catalog/detail.json"

@@ -1,0 +1,19 @@
+{
+    "detail_1": [
+        {
+            "source": "T:/image_catalog_DEV/kDS_image_cataloger.png",
+            "device_id": "0001",
+            "load_date": "2023-06-05 15:13:01",
+            "date_modified": "2023-06-05 15:13:01",
+            "artist": "DL Keeshin",
+            "title": "Title",
+            "media": "Digital Image",
+            "category": "Fine Art",
+            "description": "",
+            "year_of_work": "2023",
+            "for_sale": "yes",
+            "price": "1,000,000",
+            "timestamp": 1699126533
+        }
+    ]
+}
