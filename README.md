@@ -15,7 +15,7 @@ Before using Image Cataloger, ensure that you have:
   C:\Users\YOURACCOUNT\AppData\Local\Programs\Python\Python311
   C:\Users\YOURACCOUNT\AppData\Local\Programs\Python\Python311\Scripts
 
-- Cloned github code to your local workstation. See   https://github.com/kds-github/image_catalog Use github desktop or the command line.
+- Cloned github code to your local workstation. See   https://github.com/kds-github/image_cataloger Use github desktop or the command line.
 
   #### git clone https://github.com/user_account/repository.git
 
