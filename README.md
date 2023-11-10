@@ -94,6 +94,6 @@ Double-clicking on an image will open the image. Click on “Properties,” and 
 
 Select "Update Existing Catalog" from the file menu.  A window will open displaying catalogs from the image_catalog directory.  Select the catalog to update.  The process will  then gather any new image files found not in the existing catalog and add to the catalog.
 
-
+![image](image_catalog_06.png)
 
 
