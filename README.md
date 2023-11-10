@@ -8,7 +8,7 @@ kDS Image Cataloger is a utility designed to manage and maintain image metadata 
 
 Before using Image Cataloger, ensure that you have:
 
-- Python 3.8 or above installed on your system. As of September 2023, this documentation was based on Python 3.11.4. See [Python Downloads](https://www.python.org/downloads/).
+- Python 3.8 or above installed on your system. As of November 2023, this documentation was based on Python 3.11.4. See [Python Downloads](https://www.python.org/downloads/).
 
   After installation, make sure the Python installation and scripts paths are set. In Windows, it looks something like:
 
