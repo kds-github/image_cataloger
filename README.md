@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-kDS Image Cataloger is a utility designed to manage and maintain image metadata efficiently. It is designed to make the process of collecting and classifying digital photos or digital art easier. It allows you to run image analytics on your image files and generate a CSV file with a breakdown of images by directory path, year, quantity, and size. This user documentation will guide you through the process of using the app effectively.
+kDS Image Cataloger is a utility designed to manage and maintain image metadata efficiently. It is designed to make the process of collecting and classifying digital photos or digital art easier. It allows you to run image analytics on your image files and generate a CSV text file with a breakdown of images by directory path, year, quantity, and size. This user documentation will guide you through the process of using the app effectively.
 
 ## 2. Installation and Setup
 
