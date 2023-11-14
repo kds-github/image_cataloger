@@ -61,7 +61,7 @@ Select “Create a New Catalog” from the file menu, enter values for these ite
 - End Year: Ending year of the catalog. (YYYY)
 - Catalog Path: This is the location of the `image_catalog` directory.
 - Search Path: Search path for locating image files. Recommendation: Use the current user's home directory with FORWARD slashes like “C:/Users/your_account/”.
-- Ignore File: This is the location of a CSV file that contains a list of directories to ignore when the app searches for files. The default values are:
+- Ignore File: This is the location of a CSV text file that contains a list of directories to ignore when the app searches for files. The default values are:
 
     ***C:/Users/your_account/Downloads/***\
     ***C:/Users/your_account/AppData/***
