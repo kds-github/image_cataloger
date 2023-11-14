@@ -63,7 +63,7 @@ Select “Create a New Catalog” from the file menu, enter values for these ite
 - Search Path: Search path for locating image files. Recommendation: Use the current user's home directory with FORWARD slashes like “C:/Users/your_account/”.
 - Ignore File: This is the location of a CSV file that contains a list of directories to ignore when the app searches for files. The default values are:
 
-    ***C:/Users/your_account/Downloads/***
+    ***C:/Users/your_account/Downloads/***\
     ***C:/Users/your_account/AppData/***
 
 ## 6. Update Image Metadata
