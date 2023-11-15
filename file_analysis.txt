@@ -3,7 +3,7 @@ C:\Users\user_name     06/30/2023 08:49        2017    .PNG	748    424.71
 C:\Users\user_name	06/30/2023 08:49	2021	.PNG	4939	419.0
 C:\Users\user_name	06/30/2023 08:49	2022	.JPG	1971	147.88
 C:\Users\user_name	06/30/2023 08:49	2018	.JPG	3341	113.14
-C:\Users\user_name	06/30/2023 08:49	2020	.PNG	250	  93.67
+C:\Users\user_name	06/30/2023 08:49	2020	.PNG	250  93.67
 C:\Users\user_name	06/30/2023 08:49	2017	.JPG	2982	91.81
 C:\Users\user_name	06/30/2023 08:49	2023	.PNG	4224	51.35
 C:\Users\user_name	06/30/2023 08:49	2021	.JPG	4382	51.26
