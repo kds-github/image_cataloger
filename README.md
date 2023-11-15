@@ -80,7 +80,7 @@ Make changes or additions to the data as needed. Click “Save”. If you want t
 
 ## 7. Picture Deck
 
-“Picture Deck” from the view menu allows you to see 25 images from the catalog at once.
+“Picture Deck” from the view menu allows you to see up to 25 images from the catalog at once.
 
 ![image](image_catalog_03.png)
 
