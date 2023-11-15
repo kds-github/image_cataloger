@@ -1,4 +1,4 @@
-Directory_Path	    Processed_Date    Year  Type  Count	Size (MB)
+Directory_Path	    Processed_Date    Year  Type  Count  Size (MB)
 C:\Users\user_name	06/30/2023 08:49  Z017	.PNG	748	  424.71
 C:\Users\user_name	06/30/2023 08:49	2021	.PNG	4939	419.0
 C:\Users\user_name	06/30/2023 08:49	2022	.JPG	1971	147.88
